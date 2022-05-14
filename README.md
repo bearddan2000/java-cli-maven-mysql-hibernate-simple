@@ -1,4 +1,4 @@
-# java-cli-maven-mysql-simple
+# java-cli-maven-mysql-hibernate-simple
 
 ## Description
 Creates a small database table
@@ -19,11 +19,9 @@ hql.
 
 ## To run
 `sudo ./install.sh -u`
-Creates java-srv/log
 
 ## To stop
 `sudo ./install.sh -d`
-Removes java-srv/log
 
 ## For help
 `sudo ./install.sh -h`
